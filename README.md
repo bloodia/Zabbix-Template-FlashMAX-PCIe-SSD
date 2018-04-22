@@ -1,4 +1,4 @@
-# FlashMAX PCIe SSD
+# Zabbix Template FlashMAX PCIe SSD
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/Zabbix-Template-FlashMAX-PCIe-SSD/blob/master/LICENSE)
 
 ## Overview
