@@ -21,7 +21,6 @@ Monitoring HGST PCIe Flash Drive（4,800GB or 2,200GB or 1,100GB）status with Z
 ### Python
 - 2.6
 - 2.7
-- 3.2
 - 3.3
 - 3.4
 - 3.5
