@@ -1,5 +1,6 @@
 # Zabbix Template FlashMAX PCIe SSD
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/Zabbix-Template-FlashMAX-PCIe-SSD/blob/master/LICENSE)
+[![Maintainability](https://api.codeclimate.com/v1/badges/42d2cb898b2f160338ac/maintainability)](https://codeclimate.com/github/bloodia/Zabbix-Template-FlashMAX-PCIe-SSD/maintainability)
 
 ## Overview
 Monitoring HGST PCIe Flash Drive（4,800GB or 2,200GB or 1,100GB）status with Zabbix template.  
