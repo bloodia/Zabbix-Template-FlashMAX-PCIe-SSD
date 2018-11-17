@@ -44,7 +44,7 @@ for example: /usr/local/bin/lld-vgc.py
 ```
 
 ## How to Install
-### Script
+### Custom Script
 - Create directory "/usr/local/bin" and copy "Custom Script" file (py) to inside.  
 - Change "Custom Script" file (py) to 555 or dr-xr-xr-x using chmod.  
 
