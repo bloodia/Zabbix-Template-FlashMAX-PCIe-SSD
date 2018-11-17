@@ -51,7 +51,7 @@ for example: /usr/local/bin/lld-vgc.py
 ### UserParameter Config
 - Copy "UserParameter Config" file (conf) to /etc/zabbix/zabbix_agentd.d and restart Zabbix agent.  
 
-## Template
+### Template
 - Import the template file (xml) and assign it to the host monitored.
 
 ## Author
